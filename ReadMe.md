@@ -16,7 +16,7 @@
    - Know how to use Matplotlib to produce plots showing your findings
 
 
-#### The Steps taken to achieve this Analysis are described in the Project File _"noshow\_appointment.html"_ and the corresponding jupyter notebook _"noshow\_appointment.ipynb"_
+#### The Steps taken to achieve this Analysis are described in the jupyter notebook file _"noshow\_appointment.ipynb"_
 
 #### The dataset was imported as "appointments.csv" file, from the site Kaggle.com and can be found [here](https://www.kaggle.com/joniarroba/noshowappointments)
 
