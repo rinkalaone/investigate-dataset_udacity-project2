@@ -5,7 +5,7 @@
 
 ### This project consisted in conducting a data analysis on medical patients records in Brazil, to try and answer the question, why about 30% of the patients, would not show up to their appointments.
 
-#### Learning goals: Go through the whole data analysis process and aquiring skills like:
+#### Learning goals: Go through the whole data analysis process and acquiring skills like:
  - Know all the steps involved in a typical data analysis process
  - Be comfortable posing questions that can be answered with a given dataset and then answering those questions
  - Know how to investigate problems in a dataset and wrangle the data into a format you can use
@@ -16,7 +16,7 @@
    - Know how to use Matplotlib to produce plots showing your findings
 
 
-#### The Steps taken to achieve this Analysis are described in the jupyter notebook file _"noshow\_appointment.ipynb"_
+#### The Steps taken to achieve this Analysis are described in the Project File _"noshow\_appointment.html"_ and the corresponding jupyter notebook _"noshow\_appointment.ipynb"_
 
 #### The dataset was imported as "appointments.csv" file, from the site Kaggle.com and can be found [here](https://www.kaggle.com/joniarroba/noshowappointments)
 
